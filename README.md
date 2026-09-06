@@ -119,6 +119,7 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+<img width="1600" height="900" alt="image iot" src="https://github.com/user-attachments/assets/e44390d7-16f5-495c-aabb-39f604c87ccc" />
 
 
 
